@@ -1,11 +1,11 @@
 # bootcamp-2021
 
 ## Clase 1
-- enunciado 1
+- Enunciado 1
     - Crear un programa, donde se pueda mostrar los datos de los alumnos de un Curso
-- enunciado 2
+- Enunciado 2
     - Número capicúa
-- enunciado 3
+- Enunciado 3
     - Decimal a binario
     
 ## Clase 2 - **Spring boot microservices**
