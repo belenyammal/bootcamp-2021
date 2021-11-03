@@ -52,8 +52,8 @@ public class Curso {
 
     public void ordenarAlumnos() {
 
-        for (int i = 0; i < 4; i++) {
-            for (int j = 0; j < 4; j++) {
+        for (int i = 0; i < alumnos.size(); i++) {
+            for (int j = 0; j < alumnos.size(); j++) {
                 Collections.sort(alumnos, new Comparator() {
 
                     public int compare(Object o1, Object o2) {
